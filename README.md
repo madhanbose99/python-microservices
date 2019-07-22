@@ -1,5 +1,5 @@
-MyAPI
-======
+Python Microservices
+====================
 
 [![Build Status](https://travis-ci.org/budtmo/myAPI.svg?branch=master)](https://travis-ci.org/budtmo/myAPI)
 [![codecov](https://codecov.io/gh/budtmo/myAPI/branch/master/graph/badge.svg)](https://codecov.io/gh/budtmo/myAPI)
